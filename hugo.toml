@@ -7,4 +7,4 @@ publishDir = "docs"
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
 [markup.goldmark.renderer]
-unsafe = truegi
+unsafe = true
